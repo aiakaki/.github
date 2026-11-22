@@ -70,9 +70,9 @@ galaxies and optics. It is where the effects on [aiakaki.com](https://aiakaki.co
 
 ### Who we are
 
+- **Pål Machulla** · [github.com/PalMachulla](https://github.com/PalMachulla)
 - **John Inge** · [github.com/erlandsen-tech](https://github.com/erlandsen-tech)
 - **Morten Brandanger** · [github.com/MortenBrandanger](https://github.com/MortenBrandanger)
-- **Pål Machulla** · [github.com/PalMachulla](https://github.com/PalMachulla)
 
 Say hello on [LinkedIn](https://www.linkedin.com/company/aiakaki) or
 [Discord](https://discord.gg/TYqrdfeddz).
