@@ -4,9 +4,6 @@ We are leaving the age of information technology, when every system did exactly 
 told it to. What comes next is less certain. We can grip the controls tighter, or we can do
 what gardeners have always done: prepare the ground, tend what grows, and let go of the rest.
 
-This is what is growing. Some of it is live, some of it is half built, and some of it is just
-for play. Each one says which.
-
 [aiakaki.com](https://aiakaki.com)
 
 <br>
